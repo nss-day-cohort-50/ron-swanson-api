@@ -1,0 +1,44 @@
+{
+    "breads": [
+        {
+            "id": 1,
+            "type": "Wheat",
+            "calories": 110
+        },
+        {
+            "id": 2,
+            "type": "White",
+            "calories": 180
+        }
+    ],
+    "meats": [
+        {
+            "id": 1,
+            "type": "Beef",
+            "calories": 280
+        },
+        {
+            "id": 2,
+            "type": "Turkey",
+            "calories": 175
+        }
+    ],
+    "toppings": [
+        {
+            "id": 1,
+            "name": "Onion",
+            "calories": 15
+        },
+        {
+            "id": 2,
+            "name": "Lettuce",
+            "calories": 8
+        },
+        {
+            "id": 3,
+            "name": "Jalapeño",
+            "calories": 27
+        }
+    ]
+
+}
