@@ -1,44 +1,160 @@
 {
-    "breads": [
-        {
-            "id": 1,
-            "type": "Wheat",
-            "calories": 110
-        },
-        {
-            "id": 2,
-            "type": "White",
-            "calories": 180
-        }
-    ],
-    "meats": [
-        {
-            "id": 1,
-            "type": "Beef",
-            "calories": 280
-        },
-        {
-            "id": 2,
-            "type": "Turkey",
-            "calories": 175
-        }
-    ],
-    "toppings": [
-        {
-            "id": 1,
-            "name": "Onion",
-            "calories": 15
-        },
-        {
-            "id": 2,
-            "name": "Lettuce",
-            "calories": 8
-        },
-        {
-            "id": 3,
-            "name": "Jalapeño",
-            "calories": 27
-        }
-    ]
-
+  "breads": [
+    {
+      "id": 1,
+      "type": "Wheat",
+      "calories": 110,
+      "price": 0.5
+    },
+    {
+      "id": 2,
+      "type": "White",
+      "calories": 180,
+      "price": 0.35
+    }
+  ],
+  "meats": [
+    {
+      "id": 1,
+      "type": "Beef",
+      "calories": 280,
+      "price": 2.57
+    },
+    {
+      "id": 2,
+      "type": "Turkey",
+      "calories": 175,
+      "price": 1.42
+    }
+  ],
+  "toppings": [
+    {
+      "id": 1,
+      "name": "Onion",
+      "calories": 15,
+      "price": 0.36
+    },
+    {
+      "id": 2,
+      "name": "Lettuce",
+      "calories": 8,
+      "price": 0.25
+    },
+    {
+      "id": 3,
+      "name": "Jalapeño",
+      "calories": 27,
+      "price": 0.59
+    }
+  ],
+  "orders": [
+    {
+      "breadId": 1,
+      "meatId": 2,
+      "toppingId": 3,
+      "id": 1
+    },
+    {
+      "breadId": 2,
+      "meatId": 1,
+      "toppingId": 2,
+      "id": 2
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 3
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 4
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 5
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 6
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 7
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 8
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 9
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 10
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 11
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 12
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 13
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 14
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 15
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 16
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 17
+    },
+    {
+      "breadId": 1,
+      "meatId": 1,
+      "toppingId": 1,
+      "id": 18
+    }
+  ]
 }
